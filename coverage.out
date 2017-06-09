@@ -1,0 +1,13 @@
+mode: set
+github.com/nubunto/env/env.go:16.13,22.24 5 1
+github.com/nubunto/env/env.go:22.24,27.3 4 1
+github.com/nubunto/env/env.go:30.44,35.27 4 1
+github.com/nubunto/env/env.go:38.2,38.10 1 1
+github.com/nubunto/env/env.go:35.27,37.3 1 1
+github.com/nubunto/env/env.go:41.29,46.2 3 1
+github.com/nubunto/env/env.go:48.32,49.33 1 1
+github.com/nubunto/env/env.go:49.33,51.10 2 1
+github.com/nubunto/env/env.go:54.3,54.15 1 0
+github.com/nubunto/env/env.go:51.10,53.4 1 1
+github.com/nubunto/env/env.go:58.52,59.33 1 0
+github.com/nubunto/env/env.go:59.33,62.3 2 0
