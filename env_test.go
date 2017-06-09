@@ -42,7 +42,7 @@ func TestTransform(t *testing.T) {
 	}
 }
 
-func ExampleEnvVars() {
+func ExampleGet_NoDefault() {
 	Set("THIS", "TO-THAT")
 	fmt.Println(Get("THIS"))
 	// Output: TO-THAT
